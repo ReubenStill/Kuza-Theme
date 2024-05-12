@@ -4,8 +4,8 @@
  * @version 0.0.1
  * @description Theme for KuzaSolana
  * @source https://github.com/ReubenStill/Eternity
- * @website https://clearvision.github.io
- * @invite https://reubenstill.github.io/Kuza-Theme/
+ * @website https://reubenstill.github.io/Kuza-Theme/
+ * @invite https://discord.com/invite/kuza
 */
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;700&display=swap');
@@ -53,10 +53,12 @@
   --user-modal-grayscale: 0%;
   --user-modal-invert: 0%;
   --user-modal-blur: 3px;
-  --home-icon: url('https://www.icegif.com/wp-content/uploads/icegif-5810.gif');
+  --home-icon: url(https://clearvision.github.io/icons/discord.svg); /* home button icon (link must be HTTPS) [default: url(https://clearvision.github.io/icons/discord.svg)]*/
+  --home-position: center; /* home button icon position [default: center] */
+  --home-size: 40px; /* home button icon size [default: 40px] */
   --home-position: center;
   --home-size: 40px;
-  --channel-unread: #ad342b
+  --channel-unread: #ad342b;
   --channel-color: rgba(255,255,255,0.3);
   --muted-color: rgb(241,0,0,1);
   --online-color: #43b581;
@@ -87,5 +89,3 @@
 }
 
 /* Under Copyright Infringement Act of 2006 (U.S.A)*/
-
-
