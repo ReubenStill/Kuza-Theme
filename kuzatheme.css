@@ -16,9 +16,9 @@
   --main-color: #D5D0CF;
   --hover-color: #000000;
   --success-color: #FFFFFF;
-  --danger-color: #FF0000;
+  --danger-color: #982929;
   --url-color: #2196F3;
-  --background-image: url('blob:https://discord.com/d0f4527f-9e6a-4e3a-8ecc-acf6a4057115');
+  --background-image: url('https://media.discordapp.net/attachments/1233078555487764613/1239093727750914100/775E80H.jpg?ex=6641ab75&is=664059f5&hm=f2faeec73daf6761f44bfb45947d09031d68e9479134918ec9d6d21fbc059a52&=&format=webp&width=1025&height=342');
   --background-shading: 100%;
   --background-position: center;
   --background-size: cover;
@@ -31,9 +31,9 @@
   --background-invert: 0%;
   --background-blur: 0px;
   --background-overlay: rgba(0,0,0,0.6);
-  --user-popout-image: url('https://media.discordapp.net/attachments/1225866206087745698/1238442629889261568/YjlFTxV.jpg?ex=663f4d14&is=663dfb94&hm=ef50d6763e9119d68f5828beba0c153f5db2f094cb17251e9e82e9b8c2952867&=&format=webp&width=350&height=350');
-  --user-popout-position: center right;
-  --user-popout-size: 100%;
+  --user-popout-image: url('https://media.discordapp.net/attachments/1233078555487764613/1239094140684337182/JL0Ihl6.jpg?ex=6641abd8&is=66405a58&hm=a248816d9f39703ba81eb4ed0eb3b8eee4bd053bce2ea27ca2cceb08445fcd21&=&format=webp&width=395&height=395');
+  --user-popout-position: center;
+  --user-popout-size: cover;
   --user-popout-repeat: no-repeat;
   --user-popout-attachment: fixed;
   --user-popout-brightness: 100%;
@@ -42,9 +42,9 @@
   --user-popout-grayscale: 0%;
   --user-popout-invert: 0%;
   --user-popout-blur: 3px;
-  --user-modal-image: url('https://media.discordapp.net/attachments/1225866206087745698/1238442629889261568/YjlFTxV.jpg?ex=663f4d14&is=663dfb94&hm=ef50d6763e9119d68f5828beba0c153f5db2f094cb17251e9e82e9b8c2952867&=&format=webp&width=350&height=350');
+  --user-modal-image: url('https://media.discordapp.net/attachments/1233078555487764613/1239094140684337182/JL0Ihl6.jpg?ex=6641abd8&is=66405a58&hm=a248816d9f39703ba81eb4ed0eb3b8eee4bd053bce2ea27ca2cceb08445fcd21&=&format=webp&width=395&height=395');
   --user-modal-position: center;
-  --user-modal-size: contain;
+  --user-modal-size: cover;
   --user-modal-repeat: no-repeat;
   --user-modal-attachment: fixed;
   --user-modal-brightness: 100%;
@@ -53,16 +53,14 @@
   --user-modal-grayscale: 0%;
   --user-modal-invert: 0%;
   --user-modal-blur: 3px;
-  --home-icon: url(https://clearvision.github.io/icons/discord.svg); /* home button icon (link must be HTTPS) [default: url(https://clearvision.github.io/icons/discord.svg)]*/
-  --home-position: center; /* home button icon position [default: center] */
-  --home-size: 40px; /* home button icon size [default: 40px] */
+  --home-icon: url('https://www.mkgifs.com/wp-content/uploads/2023/11/Dark-Aesthetic-GIF.gif');
   --home-position: center;
-  --home-size: 40px;
-  --channel-unread: #ad342b;
-  --channel-color: rgba(255,255,255,0.3);
-  --muted-color: rgb(241,0,0,1);
-  --online-color: #43b581;
-  --idle-color: #faa61a;
+  --home-size: 100px;
+  --channel-unread: #1F9FD9;
+  --channel-color: rgb(165,157,157,1);
+  --muted-color: rgb(255,0,0,1);
+  --online-color: #00FF8B;
+  --idle-color: #FF007A;
   --dnd-color: #982929;
   --streaming-color: #593695;
   --offline-color: #808080;
@@ -88,4 +86,6 @@
   --bd-blue-active: var(--hover-color);
 }
 
-/* Under Copyright Infringement Act of 2006 (U.S.A)*/
+/* Any custom CSS below here */
+
+
